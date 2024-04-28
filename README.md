@@ -19,7 +19,7 @@ Welcome to the My HDLBit Solution Repository. This repository contains solutions
 This HDLBit Solution Repository is a compilation of my implementations and solutions for exercises and projects offered by HDLBit. As a hardware enthusiast and learner, I've engaged in various exercises to deepen my understanding of hardware description languages.
 
 ## Directory Structure
-
+```
 ├───01 Getting Started
 ├───02 Verilog_Language
 │   ├───Basics
@@ -45,4 +45,4 @@ This HDLBit Solution Repository is a compilation of my implementations and solut
 │   └───Finding bugs in Code
 ├───05 Verification Writing TestBenches
 └───CS450
-
+```
